@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mysql-api.iml" filepath="$PROJECT_DIR$/.idea/mysql-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sql-builder/.idea/sql-builder.iml" filepath="$PROJECT_DIR$/../sql-builder/.idea/sql-builder.iml" />
     </modules>
   </component>
 </project>
