@@ -1,5 +1,5 @@
 {
-  "name": "sql-builder",
+  "name": "node-sql-builder",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
